@@ -1,0 +1,3 @@
+/*
+All seem valid. Some seem not ideal though.
+*/
